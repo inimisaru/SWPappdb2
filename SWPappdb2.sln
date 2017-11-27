@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SWPappdb2", "SWPappdb2\SWPappdb2.sqlproj", "{138BE472-2252-47DB-94B0-A93E876D6F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{138BE472-2252-47DB-94B0-A93E876D6F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138BE472-2252-47DB-94B0-A93E876D6F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138BE472-2252-47DB-94B0-A93E876D6F81}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{138BE472-2252-47DB-94B0-A93E876D6F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138BE472-2252-47DB-94B0-A93E876D6F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138BE472-2252-47DB-94B0-A93E876D6F81}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EB944C7-F1D1-4ABA-AC83-B3D6CEAF7C0E}
+	EndGlobalSection
+EndGlobal
